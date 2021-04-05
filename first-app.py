@@ -47,7 +47,7 @@ if uploaded_file is not None:
     label = predictImage(uploaded_file)
     st.write(label.upper())
     st.success('Classification Complete!') # success widget 
-    st.balloons() # just for fun, shows balloon animations on the page
+    #st.balloons() # just for fun, shows balloon animations on the page
 
 
 
