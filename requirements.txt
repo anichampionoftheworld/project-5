@@ -1,5 +1,5 @@
 pillow==6.2.0
-tensorflow==2.2.0
+tensorflow==2.4.1
 streamlit==0.79.0
 pandas==0.25.2
 numpy==1.19.5
